@@ -7,4 +7,14 @@
   color: #262626;
   transition: all 0.7s ease;
   font-size: 2vw;
+  padding: 15px;
+}
+
+.navbar {
+  justify-content: space-between;
+  display: flex;
+  position: fixed;
+  width: 100%;
+  padding: 20px;
+  z-index: 20;
 }
