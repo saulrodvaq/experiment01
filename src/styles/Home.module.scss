@@ -1,0 +1,42 @@
+.responsivetitle {
+  font-size: 10.5vw;
+  position: absolute;
+  z-index: 1;
+  font-weight: bold;
+  text-align: end;
+}
+
+.responsivetext {
+  font-size: 2.5vw;
+  position: aboslute;
+  z-index: 1;
+}
+
+.batmanimg {
+  width: calc(100% - 5vw);
+  position: absolute;
+  bottom: 0;
+}
+
+.jokerimg {
+  width: calc(100% - 23vw);
+  position: absolute;
+  bottom: 0;
+  right: 17vw;
+}
+
+.harleyimg {
+  width: calc(100% - 15vw);
+  position: absolute;
+  bottom: 0;
+  left: 9vw;
+
+}
+
+.robinimg {
+  width: calc(100% - 16vw);
+  position: absolute;
+  bottom: 0;
+  right: 9vw;
+}
+
